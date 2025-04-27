@@ -39,10 +39,10 @@ For a visual walkthrough on setting up and running a PHP project using XAMPP and
 
  [![How To Run PHP Project Using XAMPP And MySQL](https://img.youtube.com/vi/_7MMzZyrmgY/maxresdefault.jpg)](https://www.youtube.com/watch?v=_7MMzZyrmgY)
 
+Click the image to watch
 
 This video covers:
-- Installing XAMPP
-- Configuring Apache and MySQL
+- Configuring Apache and MySQL in XAMPP
 - Creating a database and table in phpMyAdmin
 - Running your PHP project locally
 
