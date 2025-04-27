@@ -38,7 +38,7 @@ Certainly! Here's your updated project setup guide with the YouTube tutorial lin
 
 For a visual walkthrough on setting up and running a PHP project using XAMPP and MySQL, check out this step-by-step tutorial:
 
- ([How To Run PHP Project Using XAMPP And MySQL](https://www.youtube.com/watch?v=JemC0AEbLd0&utm_source=chatgpt.com))
+ ([How To Run PHP Project Using XAMPP And MySQL](https://www.youtube.com/watch?v=_7MMzZyrmgY&t=876s))
 
 This video covers:
 - Installing XAMPP
