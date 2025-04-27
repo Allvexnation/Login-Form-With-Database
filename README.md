@@ -33,7 +33,7 @@
 
 ---
 
-## 🎥 Helpful Video Tutorial
+## 🎥 Video Tutorial
 
 For a visual walkthrough on setting up and running a PHP project using XAMPP and MySQL, check out this step-by-step tutorial:
 
